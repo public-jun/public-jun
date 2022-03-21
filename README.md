@@ -1,6 +1,22 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=public-jun&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=public-jun&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=public-jun&show_icons=true&theme=onedark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=public-jun&layout=compact&theme=onedark" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=public-jun&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="left"> 
+  <a href="https://github.com/public-jun/public-jun/">
+    <img src="https://komarev.com/ghpvc/?username=public-jun" alt="public-jun" />
+  </a>
+  <a href="http://twitter.com/public_jun">
+    <img height="20" src="https://img.shields.io/twitter/follow/public_jun?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/public-jun">
+    <img height="20" src="https://img.shields.io/github/followers/public-jun?label=follow&logo=github&style=flat" />
+  </a>
+</p>
 
 <!--
 **public-jun/public-jun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
